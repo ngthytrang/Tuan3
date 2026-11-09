@@ -1,3 +1,0 @@
-.menu { margin: 20px 0; padding: 0; list-style: none; white-space: nowrap; }
-.menu li { display: inline-block; width: 150px; margin-right: 4px; background: aqua; text-align: center; font-size: 30px; }
-@media (max-width: 650px) { .menu { white-space: normal; } .menu li { margin-bottom: 8px; } }
